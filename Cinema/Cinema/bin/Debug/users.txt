@@ -1,0 +1,2 @@
+admin,admin123,Администратор
+cashier,cashier123,Кассир

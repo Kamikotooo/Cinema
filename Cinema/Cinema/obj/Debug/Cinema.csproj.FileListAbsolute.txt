@@ -1,0 +1,14 @@
+C:\Users\interstellar\source\repos\Cinema\Cinema\obj\Debug\Cinema.csproj.AssemblyReference.cache
+C:\Users\interstellar\source\repos\Cinema\Cinema\obj\Debug\Cinema.csproj.CoreCompileInputs.cache
+C:\Users\interstellar\source\repos\Cinema\Cinema\bin\Debug\Cinema.exe.config
+C:\Users\interstellar\source\repos\Cinema\Cinema\bin\Debug\Cinema.exe
+C:\Users\interstellar\source\repos\Cinema\Cinema\bin\Debug\Cinema.pdb
+C:\Users\interstellar\source\repos\Cinema\Cinema\obj\Debug\Cinema.exe
+C:\Users\interstellar\source\repos\Cinema\Cinema\obj\Debug\Cinema.pdb
+C:\Users\bratv\Downloads\Cinema\Cinema\bin\Debug\Cinema.exe.config
+C:\Users\bratv\Downloads\Cinema\Cinema\bin\Debug\Cinema.exe
+C:\Users\bratv\Downloads\Cinema\Cinema\bin\Debug\Cinema.pdb
+C:\Users\bratv\Downloads\Cinema\Cinema\obj\Debug\Cinema.csproj.AssemblyReference.cache
+C:\Users\bratv\Downloads\Cinema\Cinema\obj\Debug\Cinema.csproj.CoreCompileInputs.cache
+C:\Users\bratv\Downloads\Cinema\Cinema\obj\Debug\Cinema.exe
+C:\Users\bratv\Downloads\Cinema\Cinema\obj\Debug\Cinema.pdb
